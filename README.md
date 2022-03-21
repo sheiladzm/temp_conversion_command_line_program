@@ -14,8 +14,9 @@ Objectives:
 
 Challenges Faced:
 
-- Used double equals instead of .equals method for String value
+- Used double equals instead of .equals method to check for String equality
 - Initially used the wrong temperature conversion formula
+- Unclear on prompt statements on the expected formatting of user input
 
 Tips:
 
